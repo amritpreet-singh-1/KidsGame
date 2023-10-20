@@ -1,0 +1,44 @@
+		/* Menu bar styles */
+		.topnav-right {
+			background-color: #eee;
+			color: #333;
+			height: 50px;
+			display: flex;
+			align-items: center;
+            justify-content: space-between; 
+			padding: 0 20px;
+		}
+		
+		.topnav-right a {
+			color: #333;
+			text-decoration: none;
+			margin-right: 20px;
+			font-size: 20px;
+			float: right;
+			text-align: center;
+
+
+		}
+
+        .nav{
+            list-style-type: none;
+            display: flex;
+            justify-content: right;
+        }
+		
+		/* Login status styles */
+		.login {
+			background-color: #eee;
+			color: #333;
+			height: 30px;
+			display: flex;
+			align-items: center;
+			padding: 0 20px;
+			font-size: 14px;
+		}
+		
+		.login a {
+			color: #333;
+			text-decoration: none;
+			margin-left: auto;
+		}
